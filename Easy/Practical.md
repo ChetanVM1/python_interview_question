@@ -222,7 +222,7 @@
    number = 12345
    total = sum_of_digits(number)
    print("Sum of digits:", total)
-
+   ```
 
 
 
