@@ -2,7 +2,7 @@
 1. **What is Python?**
    - Python is a high-level, interpreted programming language known for its simplicity and readability. It supports multiple programming paradigms and is widely used in various domains such as web development, data science, and automation.
 
-2. **Explain the difference between Python 2 and Python 3**
+2. **Explain the difference between Python 2 and Python 3?**
    - Python 2 and Python 3 are two major versions of the Python programming language. Python 3 introduced several syntax changes and improvements over Python 2 to enhance code readability and address certain design flaws.
 
 3. **What are the advantages of using Python for Data Science?**
